@@ -1,0 +1,28 @@
+name: Craig Bloodworth
+favicon: null
+layout_spectrum: 0.4832021265756339
+typography_spectrum: 0.7918119700625539
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.862078846199438
+  lightness: 0.9319720007479191
+  saturation: 0.9648041031323373
+  rhythmicContrast: 0.01322873355820775
+purpose: []
